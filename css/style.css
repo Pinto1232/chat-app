@@ -36,6 +36,18 @@ body {
   font-weight: bold;
 }
 
+.content-item:nth-last-of-type(1) {
+  flex-grow: 2;
+}
+.content-item:nth-last-of-type(2) {
+  flex-wrap: 1;
+  background-color: #000;
+}
+.content-item:nth-last-of-type(3) {
+  background-color: yellow;
+  color: #000;
+}
+
 @media (max-width: 375px) {
   .header .container {
     flex-wrap: wrap;
