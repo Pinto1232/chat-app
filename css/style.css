@@ -354,6 +354,20 @@
     }
 
 
+    @media(max-width: 846px){
+        .content-item .mobile-display {
+            flex: 1;
+            width: 98.8%;
+            margin-left: 0px;
+            min-height: 175%;
+            margin-top: 17em;;
+        }
+        .content-item article{
+            margin-top:9em;
+        }
+    }
+
+
     @media (max-width: 768px) {
 
         /* Background top */
