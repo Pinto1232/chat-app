@@ -402,13 +402,13 @@
 
         .content-item .mobile-display {
             flex: 1;
-            width: 95%;
+            width: 99%;
             margin-left: 0px;
             min-height: 125%;
         }
 
         input[type="text"] {
-            min-width: 280px!important;
+            min-width: 295px!important;
         }
 
     }
