@@ -425,4 +425,8 @@
             min-width: 295px!important;
         }
 
+           article p {
+               max-width: 100%;
+           }
+
     }
