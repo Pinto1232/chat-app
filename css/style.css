@@ -402,7 +402,7 @@
 
         .content-item .mobile-display {
             flex: 1;
-            width: 100%;
+            width: 90%;
             margin-left: 0px;
             min-height: 119%;
         }
