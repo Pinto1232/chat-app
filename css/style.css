@@ -408,7 +408,7 @@
         }
 
         input[type="text"] {
-            min-width: 290px;
+            min-width: 280px!important;
         }
 
     }
