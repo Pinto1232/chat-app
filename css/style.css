@@ -360,7 +360,7 @@
         .content-item .first-span {
             margin-top: -10em;
             min-height: 75%;
-            min-width: 100%;
+            min-width: 115%;
             margin-left: -2em;
             z-index: -9999;
         }
@@ -404,7 +404,7 @@
             flex: 1;
             width: 98.8%;
             margin-left: 0px;
-            min-height: 122%;
+            min-height: 110%;
         }
 
         input[type="text"] {
