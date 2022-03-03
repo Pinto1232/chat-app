@@ -32,7 +32,6 @@
         justify-content: center;
         width: 600px;
         text-align: center;
-        height: 400px;
         color: #fff;
         flex-direction: column;
         height: 100vh;
@@ -381,9 +380,6 @@
         }
 
 
-
-
-
         .content-item span {
             max-width: 100%;
             align-items: flex-start;
@@ -400,12 +396,10 @@
             justify-content: center;
             align-items: center;
             margin: 1em;
-
+            margin-top: -31em;
         }
 
-        .content-item:nth-last-of-type(3) {
-            max-width: 100%;
-        }
+
 
         .content-item .mobile-display {
             flex: 1;
