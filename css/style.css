@@ -404,7 +404,11 @@
             flex: 1;
             width: 95%;
             margin-left: 0px;
-            min-height: 119%;
+            min-height: 122%;
+        }
+
+        input[type="text"] {
+            min-width: 298px;
         }
 
     }
