@@ -361,7 +361,7 @@
         .content-item .first-span {
             margin-top: -10em;
             min-height: 75%;
-            min-width: 86%;
+            min-width: 100%;
             margin-left: -2em;
             z-index: -9999;
         }
@@ -378,6 +378,13 @@
             display: flex;
             margin: 20px;
         }
+
+
+        /* Contenr article */
+        .content-item article{
+            margin-top:-15em;
+        }
+        /* End of content article*/
 
 
         .content-item span {
