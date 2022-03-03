@@ -244,6 +244,14 @@
     /* End of article section */
 
 
+    /* Price item */
+    .price_item {
+        font-size: 17px;
+        margin-top: -4px;
+    }
+    /* End of price item */
+
+
     /* Small icon in the mobile card */
     .head .head-content-items {
         display: flex;
