@@ -392,6 +392,10 @@
             margin: 9px;
         }
 
+        .nav-item .header {
+            line-height: 1;
+        }
+
 
         .content-item span {
             max-width: 100%;
